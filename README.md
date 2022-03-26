@@ -113,7 +113,7 @@ ver 表示版本号，例如 1.1.2
 
 ---
 
-## 写在最后
+## 结语
 
 此项目完全开源，你可以随意 fork 或修改和定制，如果你觉得好用，可以来[AUR投票](https://aur.archlinux.org/packages/rime-cloverpinyin/)和在[github上star](https://github.com/fkxxyz/rime-cloverpinyin)，投票和star的人越多越容易被搜索到，以此更好地传播出去。
 
